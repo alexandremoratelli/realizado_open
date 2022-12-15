@@ -1,0 +1,21 @@
+{
+  "config._readme1g": "armazene neste arquivo informações gerais",
+  "config._readme2g": "Não adicione ao .gitignore",
+  "config.json": "cfg/config.json",
+  "config.secrets": "",
+  "config.secrets_file": "",
+  "config.log_erro_txt": "log/log_ERRO_realizado.txt",
+  "config.log_erro_json": "log/log_ERRO_realizado.json",
+  "config.log_sucesso_txt": "log/log_SUCESSO_realizado.txt",
+  "config.log_sucesso_json": "log/log_SUCESSO_realizado.json",
+  "config.separador_dados_txt": " - ",
+  "config.realizado.XLSX": "dados/planilha_realizado.xlsx",
+  "config.url_service": "http://",
+  "config.key_1": "NUcmFuc2Zvcm1lcnMrMjI=",
+  "config.key_2": "RGF0YWluZm8tRGlnaXRhbC",
+  "config.service_user": "ZZZZZ",
+  "config.service_pwd": "gAAAAABjml5Pih0MEHyH_gjKSe_rEWN9p38ytsfWholDMeuBYA8zniNkSsEOB4V-bdv6ZrL8oFRSt84UEdCivSYt7i4-1zsB4A==",
+  "config.planilha": "dez22",
+  "config.tabela": "TabDez",
+  "config.colunas_realizado": ["A", "B", "C", "D", "K", "M", "N"]
+}

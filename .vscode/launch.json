@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "PS Copy sheet realizado",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "c:\\Datainfo\\Moratelli\\python\\virtualenvs\\realizado\\_copy_esforco_to_Python.ps1",
+            "cwd": "${file}"
+        },
+        {
+            "name": "Py Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        }
+    ]
+}
