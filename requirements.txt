@@ -6,7 +6,7 @@ cryptography==46.0.5
 et-xmlfile==1.1.0
 exceptiongroup==1.0.4
 h11==0.16.0
-idna==3.4
+idna==3.7
 openpyxl==3.0.10
 outcome==1.2.0
 pycparser==2.21
